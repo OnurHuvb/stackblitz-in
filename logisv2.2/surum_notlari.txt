@@ -1,0 +1,26 @@
+bu sürümde gerçekleştirilenler:
+
+-login-register sayfaları tamamlanmıştır.Mysql connection'ı başarılıdır.
+-dashboard sayfasında ise sidebar ve sidebar'daki butonlar eklenmiştir.
+-toolpage ise çalışıyor fakat henüz tamamlanmamıştır.
+
+Not:
+node server.js komutu ile server 3001 portunda çalıştırılmalıdır.
+
+Eklenmek İstenenler:
+
+-dashboard bölümünde kullanıcı bilgilerinin yapılacağı bölümünün oluşturulması
+    +kademe
+    +branş
+    +ve phyton dan app combine den alınacak veriler
+
+-kullanıcı bilgilerinin veritabanında ilgili oturum açan kullanıcıya göre kaydedilmesi/güncellenmesi
+
+-profile bölümünde program geliştirme bölümünün yapılması
+    +program geliştirme bölümünde yer alan yapılar(phyton app combine den alınacak)
+    +yapıların inputa gerekli atamaların yapabilecek hale getirilmesi
+    +listelere otomatik olarak veritabanından gelen verilerin çekilmesi
+    +gpt modülünün eklenmesi
+    +
+
+- ana sayfada autoconplete yazı+ sağ bölümünde gif? like= https://www.figma.com/
